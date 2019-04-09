@@ -1,0 +1,67 @@
+{
+  "id": 1344171871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.97109,-29.02435,167.97109,-29.02435",
+    "geom:latitude":-29.02435,
+    "geom:longitude":167.97109,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Cascade",
+    "gn:country_code":"NF",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2172160,
+    "gn:latitude":-29.02435,
+    "gn:longitude":167.97109,
+    "gn:modification_date":"2015-06-01",
+    "gn:name":"Cascade",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Norfolk",
+    "iso:country":"NF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632517,
+        102191583,
+        136253039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2172160
+    },
+    "wof:country":"NF",
+    "wof:geomhash":"e0b958cc032131b547b54181af06a22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632517,
+            "empire_id":136253039,
+            "locality_id":1344171871,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344171871,
+    "wof:lastmodified":1536715074,
+    "wof:name":"Cascade",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.97109,
+    -29.02435,
+    167.97109,
+    -29.02435
+],
+  "geometry": {"coordinates":[167.97109,-29.02435],"type":"Point"}
+}

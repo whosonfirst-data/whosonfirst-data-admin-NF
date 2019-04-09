@@ -1,0 +1,61 @@
+{
+  "id": 1209634033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.94641,-29.03216,167.94641,-29.03216",
+    "geom:latitude":-29.03216,
+    "geom:longitude":167.94641,
+    "gn:asciiname":"Burnt Pine",
+    "gn:country_code":"NF",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9883894,
+    "gn:latitude":-29.03216,
+    "gn:longitude":167.94641,
+    "gn:modification_date":"2015-12-16",
+    "gn:name":"Burnt Pine",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Norfolk",
+    "iso:country":"NF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9883894,
+        "wk:page":"Burnt_Pine"
+    },
+    "wof:country":"NF",
+    "wof:geomhash":"e098b62ba466dcaf4f75a6c763279557",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632517,
+            "locality_id":1209634033
+        }
+    ],
+    "wof:id":1209634033,
+    "wof:lastmodified":1537569972,
+    "wof:name":"Burnt Pine",
+    "wof:parent_id":85632517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.94641,
+    -29.03216,
+    167.94641,
+    -29.03216
+],
+  "geometry": {"coordinates":[167.94640999999999,-29.03216],"type":"Point"}
+}
