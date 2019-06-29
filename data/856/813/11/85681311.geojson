@@ -71,9 +71,6 @@
     "name:cym_x_preferred":[
         "Ynys Norfolk"
     ],
-    "name:cze_x_preferred":[
-        "Norfolk"
-    ],
     "name:cze_x_variant":[
         "Ostrov Norfolk"
     ],
@@ -280,9 +277,6 @@
     "name:ron_x_preferred":[
         "Insula Norfolk"
     ],
-    "name:rum_x_preferred":[
-        "Insula Norfolk"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0440\u0444\u043e\u043b\u043a"
     ],
@@ -361,8 +355,7 @@
         "\u8bfa\u798f\u514b\u5c9b"
     ],
     "name:zho_x_variant":[
-        "\u8afe\u798f\u514b\u5cf6",
-        "\u8bfa\u798f\u514b\u5c9b"
+        "\u8afe\u798f\u514b\u5cf6"
     ],
     "name:zho_yue_x_preferred":[
         "\u8afe\u798f\u5cf6"
@@ -430,7 +423,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1536616806,
+    "wof:lastmodified":1561766411,
     "wof:name":"Norfolk Island",
     "wof:parent_id":85632517,
     "wof:placetype":"region",
