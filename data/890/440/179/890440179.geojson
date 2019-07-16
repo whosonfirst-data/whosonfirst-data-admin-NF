@@ -33,6 +33,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041a\u0456\u043d\u0433\u0441\u0442\u0430\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u0982\u09b8\u099f\u09a8"
+    ],
     "name:bos_x_preferred":[
         "Kingston"
     ],
@@ -45,6 +48,9 @@
     "name:cat_x_preferred":[
         "Kingston"
     ],
+    "name:ceb_x_preferred":[
+        "Kingston"
+    ],
     "name:ces_x_preferred":[
         "Kingston"
     ],
@@ -53,6 +59,9 @@
     ],
     "name:deu_x_preferred":[
         "Kingston"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bd\u03b3\u03ba\u03c3\u03c4\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kingston"
@@ -123,6 +132,9 @@
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10dc\u10d2\u10e1\u10e2\u10dd\u10dc\u10d8"
     ],
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d"
+    ],
     "name:kor_x_preferred":[
         "\ud0b9\uc2a4\ud134"
     ],
@@ -146,6 +158,9 @@
     ],
     "name:nno_x_preferred":[
         "Kingston p\u00e5 Norfolk\u00f8ya"
+    ],
+    "name:nno_x_variant":[
+        "Kingston"
     ],
     "name:nob_x_preferred":[
         "Kingston"
@@ -256,7 +271,7 @@
         }
     ],
     "wof:id":890440179,
-    "wof:lastmodified":1561766411,
+    "wof:lastmodified":1563318991,
     "wof:name":"Kingston",
     "wof:parent_id":85681311,
     "wof:placetype":"locality",
