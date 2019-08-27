@@ -11,10 +11,14 @@
     "geom:longitude":167.96628,
     "gn:country":"NF",
     "gn:fcode":"PPLC",
-    "gn:pop":880,
+    "gn:population":880,
     "iso:country":"NF",
+    "lbl:bbox":"167.94628,-29.07459,167.98628,-29.03459",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Kingston"
     ],
@@ -253,7 +257,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2161314,
-        "qs:id":572903,
+        "qs_pg:id":572903,
         "wd:id":"Q30963",
         "wk:page":"Kingston"
     },
@@ -271,7 +275,7 @@
         }
     ],
     "wof:id":890440179,
-    "wof:lastmodified":1563318991,
+    "wof:lastmodified":1566649441,
     "wof:name":"Kingston",
     "wof:parent_id":85681311,
     "wof:placetype":"locality",
