@@ -406,6 +406,9 @@
         "wd:id":"Q31057"
     },
     "wof:country":"NF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"50aca10057ee2b0f41417af3a5dfc147",
     "wof:hierarchy":[
         {
@@ -423,7 +426,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561766411,
+    "wof:lastmodified":1582355576,
     "wof:name":"Norfolk Island",
     "wof:parent_id":85632517,
     "wof:placetype":"region",
