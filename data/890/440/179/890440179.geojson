@@ -107,6 +107,9 @@
         "\u05e7\u05d9\u05e0\u05d2\u05e1\u05d8\u05d5\u05df"
     ],
     "name:hin_x_preferred":[
+        "\u0915\u093f\u0902\u0917\u0938\u094d\u091f\u0928"
+    ],
+    "name:hin_x_variant":[
         "\u0915\u093f\u0902\u0917\u094d\u0938\u094d\u091f\u0928"
     ],
     "name:hrv_x_preferred":[
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":890440179,
-    "wof:lastmodified":1566649441,
+    "wof:lastmodified":1636502499,
     "wof:name":"Kingston",
     "wof:parent_id":85681311,
     "wof:placetype":"locality",
